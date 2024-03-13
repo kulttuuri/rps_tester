@@ -2,6 +2,11 @@
 
 This app is being used to test the RPS (rock-paper-scissors) competition server. The competition is being held at SAMK in a course "Server-Side Programming".
 
+## Requirements
+
+- Python 3.x
+- requests pip package
+
 ## Running the Server
 
 First, set your server settings in the `settings.py` file.
